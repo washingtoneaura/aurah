@@ -233,6 +233,10 @@ h1{
     text-align: center;
 }
 
+.contact-info{
+    color: black;
+}
+
 .contact-section h2 {
     font-size: 2.5em;
     margin-bottom: 20px;
@@ -241,6 +245,21 @@ h1{
 .contact-section p {
     font-size: 1.2em;
     margin-bottom: 30px;
+}
+
+.contact-info {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.contact-info h3 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    font-size: 1em;
+    margin: 5px 0;
 }
 
 .contact-form {
@@ -293,6 +312,7 @@ button[type="submit"] {
 button[type="submit"]:hover {
     background-color: #FFA500;
 }
+
 
 /* Newsletter Styling */
 .newsletter-section {
